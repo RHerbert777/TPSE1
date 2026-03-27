@@ -1,0 +1,9 @@
+
+Macros --------------------------------
+#define (Definir um valor para um nome)
+#ifdef (Se definido)
+#ifndef (Se não definido)
+#endif (Fim de um bloco de código)
+#undef (Desdefinir um nome)
+#include (Incluir um arquivo)
+#pragma (Diretiva de compilação)

@@ -2,6 +2,7 @@
 #include "Code.h"
 #include <math.h>
 
+//#define Delta (a, b, c) (b * b - 4 * a * c) // Macro para calcular o Delta 
 
 double Delta(double a, double b, double c) {
     return b * b - 4 * a * c;
