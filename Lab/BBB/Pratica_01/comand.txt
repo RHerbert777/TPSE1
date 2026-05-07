@@ -1,0 +1,1 @@
+setenv app "setenv autoload no; setenv ipaddr 192.168.1.2; setenv serverip 192.168.1.1; tftp 0x80000000 download.bin; echo *** Iniciando Bare-Metal ***; go 0x80000000"
